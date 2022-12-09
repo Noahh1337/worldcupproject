@@ -1,0 +1,60 @@
+html, body {
+    height: 100%;
+    width: 100%;
+   
+  }
+  
+  body {
+      background-color: rgb(73, 188, 227);
+  }
+  
+  .group table {
+    border: black solid 2px;
+    background-color: white;
+    font-size: smaller;
+    margin-bottom: 15px;
+  }
+  
+  .group {
+    background-color: (254, 195, 16);
+  }
+  
+  nav table {
+    width: 100%;
+  }
+  
+  #right {
+    display: inline-block;
+  }
+  
+  #left {
+    display: inline-block;
+  }
+  
+  img {
+    display: inline-block;
+    width: 60%;
+    margin-bottom: 500px;
+  }
+  
+  nav {
+    background-color: rgb(16, 119, 195);
+  }
+  
+  ul{
+    list-style-type: none;
+  }
+  
+  a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: darkred;
+  }
+  
+  p {
+    color: rgb(86, 4, 44);
+    font-weight: bold;
+  }
